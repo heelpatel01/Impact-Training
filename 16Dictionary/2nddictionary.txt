@@ -1,0 +1,2 @@
+-Dict keys always immutable in nature means we cant it change it.
+-Hence we cant use list,set,dict as Dictionary Key why bcz they all are mutable in nature , but we can use Number,Tuple,Frozenset,string As a dict key, other wise we will get type error.

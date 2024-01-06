@@ -1,0 +1,13 @@
+#copy():-
+d1={1:'google',
+    2:'amazon',
+    3:'tesla'
+}
+d2={}
+print(id(d1))
+print(id(d2))
+d2=d1.copy()
+print(d2)
+print(d1)
+print(id(d1))
+print(id(d2))

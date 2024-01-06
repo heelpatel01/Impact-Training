@@ -1,0 +1,11 @@
+#update:-
+d1={1:'google',
+    2:'amazon',
+    3:'tesla'
+}
+d2={
+    4:'USA',
+    5:'INDIA',
+    6:'RUSSIA'
+}
+print(d1)

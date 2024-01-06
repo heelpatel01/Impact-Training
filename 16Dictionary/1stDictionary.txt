@@ -1,0 +1,7 @@
+-Dictionary is MUTABLE in nature so that we can perform modification based on our requirement.
+-Duplicate keys are not allowed, but duplicate values are allowed 
+.</>but if key will duplicated compiler will modify by last initialed value in in key. it will run succsesfully.
+-Dictionaryis dynamic in nature means based on our requirement we can increase and decrease the size.
+-we can't apply indexing and slicing conept in Dictionary.
+-Hetergenous element are allowed.
+-Dictionary keys are case sensitive.
